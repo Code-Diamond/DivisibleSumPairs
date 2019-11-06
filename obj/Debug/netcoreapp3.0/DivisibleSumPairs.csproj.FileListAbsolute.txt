@@ -1,0 +1,11 @@
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.exe
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.deps.json
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.runtimeconfig.json
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.runtimeconfig.dev.json
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.dll
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.pdb
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.csprojAssemblyReference.cache
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.AssemblyInfo.cs
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.dll
+C:\Users\root\source\repos\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.pdb
