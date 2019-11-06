@@ -15,7 +15,6 @@ using System;
 class Solution
 {
 
-    // Complete the divisibleSumPairs function below.
     static int divisibleSumPairs(int n, int k, int[] ar)
     {
         int counter = 0;
